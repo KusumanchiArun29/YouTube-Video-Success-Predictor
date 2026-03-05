@@ -131,10 +131,10 @@ youtube-video-analysis/
 
 👥Team Members & Roles
 
-Member 1 – SQL Developer [ArunKusumanchi] [TEAM LEADER]  Data cleaning, query writing, database management 
-Member 2 – Python & ML Developer [Sumedhapalla]  EDA, feature engineering, model building 
-Member 3 – Power BI Developer  [Trived7] Dashboard design, DAX measures, visualization
-
+> Member 1 – SQL Developer [ArunKusumanchi] [TEAM LEADER] = Data cleaning, query writing, database management.                           
+> Member 2 – Python & ML Developer [Sumedhapalla] = EDA, feature engineering, model building.                                
+> Member 3 – Power BI Developer  [Trived7] = Dashboard design, DAX measures, visualization.                         
+    
 ---
 
 ## 🚀 Future Improvements
