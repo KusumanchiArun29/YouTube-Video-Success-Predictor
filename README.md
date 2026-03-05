@@ -146,6 +146,3 @@ This project demonstrates:
 - Machine learning model building in Python  
 - Interactive visualization using Power BI  
 - Interpretation of model results and business insights  
----
-
-✨ This version is concise, professional, and presentation‑ready. Would you like me to also refine it into a **resume‑style project description** (2–3 bullet points) so you can showcase it in job applications?
